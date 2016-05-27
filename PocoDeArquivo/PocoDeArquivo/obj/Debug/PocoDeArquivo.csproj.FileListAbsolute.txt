@@ -7,3 +7,13 @@ C:\Users\Eric\Documents\Visual Studio 2015\Projects\PocoDeArquivo\PocoDeArquivo\
 C:\Users\Eric\Documents\Visual Studio 2015\Projects\PocoDeArquivo\PocoDeArquivo\PocoDeArquivo\obj\Debug\PocoDeArquivo.csproj.GenerateResource.Cache
 C:\Users\Eric\Documents\Visual Studio 2015\Projects\PocoDeArquivo\PocoDeArquivo\PocoDeArquivo\obj\Debug\PocoDeArquivo.exe
 C:\Users\Eric\Documents\Visual Studio 2015\Projects\PocoDeArquivo\PocoDeArquivo\PocoDeArquivo\obj\Debug\PocoDeArquivo.pdb
+C:\Users\Eric\Desktop\OS_EXT4\PocoDeArquivo\PocoDeArquivo\bin\Debug\PocoDeArquivo.exe.config
+C:\Users\Eric\Desktop\OS_EXT4\PocoDeArquivo\PocoDeArquivo\obj\Debug\PocoDeArquivo.exe
+C:\Users\Eric\Desktop\OS_EXT4\PocoDeArquivo\PocoDeArquivo\obj\Debug\PocoDeArquivo.pdb
+C:\Users\Eric\Desktop\OS_EXT4\PocoDeArquivo\PocoDeArquivo\obj\Debug\PocoDeArquivo.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\OS_EXT4\PocoDeArquivo\PocoDeArquivo\obj\Debug\PocoDeArquivo.Form1.resources
+C:\Users\Eric\Desktop\OS_EXT4\PocoDeArquivo\PocoDeArquivo\obj\Debug\PocoDeArquivo.Properties.Resources.resources
+C:\Users\Eric\Desktop\OS_EXT4\PocoDeArquivo\PocoDeArquivo\obj\Debug\PocoDeArquivo.csproj.GenerateResource.Cache
+C:\Users\Eric\Desktop\OS_EXT4\PocoDeArquivo\PocoDeArquivo\bin\Debug\PocoDeArquivo.exe
+C:\Users\Eric\Desktop\OS_EXT4\PocoDeArquivo\PocoDeArquivo\bin\Debug\PocoDeArquivo.pdb
+C:\Users\Eric\Desktop\OS_EXT4\PocoDeArquivo\PocoDeArquivo\obj\Debug\PocoDeArquivo.View.FileHandler.resources

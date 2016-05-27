@@ -16,8 +16,7 @@ namespace PocoDeArquivo.DAO
     {
         public bool Delete(File model)
         {
-            StringBuilder sql;
-            sql.Append("DELETE FROM FILES WHERE {1} ",model.)
+            return true;
         }
 
         public File Insert(File model)

@@ -54,6 +54,12 @@
     <Compile Include="Model\TypeOfFile.cs" />
     <Compile Include="Model\TypeOfUser.cs" />
     <Compile Include="Model\User.cs" />
+    <Compile Include="View\FileHandler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FileHandler.Designer.cs">
+      <DependentUpon>FileHandler.cs</DependentUpon>
+    </Compile>
     <Compile Include="View\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +68,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="View\FileHandler.resx">
+      <DependentUpon>FileHandler.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="View\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>

@@ -17,7 +17,7 @@ namespace PocoDeArquivo.Model
 
         #region Constructors
 
-        public User(string name, string login, string password, TypeOfFile type, Group group)
+        public User(string name, string login, string password, TypeOfUser type, Group group)
         {
             this.name = name;
             this.login = login;
